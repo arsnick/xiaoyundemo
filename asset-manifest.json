@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xiaoyundemo/static/css/main.a9f63ff0.css",
+    "main.js": "/xiaoyundemo/static/js/main.62870b04.js",
+    "static/js/453.aa11f790.chunk.js": "/xiaoyundemo/static/js/453.aa11f790.chunk.js",
+    "index.html": "/xiaoyundemo/index.html",
+    "main.a9f63ff0.css.map": "/xiaoyundemo/static/css/main.a9f63ff0.css.map",
+    "main.62870b04.js.map": "/xiaoyundemo/static/js/main.62870b04.js.map",
+    "453.aa11f790.chunk.js.map": "/xiaoyundemo/static/js/453.aa11f790.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9f63ff0.css",
+    "static/js/main.62870b04.js"
+  ]
+}
