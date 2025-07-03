@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
   useNavigate,
@@ -107,6 +107,9 @@ function Home() {
             onKeyDown={handleKeyDown}
           />
           <button className="search-btn" onClick={handleSearch}>确定</button>
+        </div>
+        <div className="search-tip-box">
+          1.如搜索角色相关内容则弹出角色路径，2.如搜索知识相关内容则弹出知识地图。
         </div>
       </div>
     </div>

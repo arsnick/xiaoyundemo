@@ -261,3 +261,17 @@
   text-align: center;
   box-shadow: 0 2px 8px rgba(160,180,255,0.10);
 }
+
+.search-tip-box {
+  width: 600px;
+  margin-top: 18px;
+  border: 2px solid #ff4d4f;
+  border-radius: 8px;
+  color: #ff4d4f;
+  background: #fff0f0;
+  font-size: 18px;
+  padding: 14px 18px;
+  box-sizing: border-box;
+  text-align: left;
+  font-weight: bold;
+}
