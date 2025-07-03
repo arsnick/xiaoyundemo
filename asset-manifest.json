@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/xiaoyundemo/static/css/main.a9f63ff0.css",
-    "main.js": "/xiaoyundemo/static/js/main.0d592955.js",
+    "main.css": "/xiaoyundemo/static/css/main.a7695d6f.css",
+    "main.js": "/xiaoyundemo/static/js/main.965a64ca.js",
     "static/js/453.aa11f790.chunk.js": "/xiaoyundemo/static/js/453.aa11f790.chunk.js",
     "index.html": "/xiaoyundemo/index.html",
-    "main.a9f63ff0.css.map": "/xiaoyundemo/static/css/main.a9f63ff0.css.map",
-    "main.0d592955.js.map": "/xiaoyundemo/static/js/main.0d592955.js.map",
+    "main.a7695d6f.css.map": "/xiaoyundemo/static/css/main.a7695d6f.css.map",
+    "main.965a64ca.js.map": "/xiaoyundemo/static/js/main.965a64ca.js.map",
     "453.aa11f790.chunk.js.map": "/xiaoyundemo/static/js/453.aa11f790.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9f63ff0.css",
-    "static/js/main.0d592955.js"
+    "static/css/main.a7695d6f.css",
+    "static/js/main.965a64ca.js"
   ]
 }
